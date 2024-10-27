@@ -21,10 +21,10 @@ repository               : "mbh1234/keerthana.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1.jpeg"
   name             : "Keerthana Chirumamilla"
   pronouns         : # example: "she/her"  
-  bio              : "Senior Undergraduate"
+  bio              : "Senior Year Undergraduate"
   #location         : "Kanpur"
   employer         : "IIT Kanpur"
   uri              : # URL
