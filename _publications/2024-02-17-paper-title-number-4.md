@@ -1,5 +1,5 @@
 ---
-title: "Bandit Review paper"
+title: "Explainable AI for Machine learning algorithms in detextion of credit card scam"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
