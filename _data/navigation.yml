@@ -21,7 +21,7 @@ main:
     url: /courses/
     
   - title: "CV"
-    url: /cv/
+    url: https://mbh1234.github.io/keerthana.github.io/files/cv.pdf
     
   - title: "Gallery"
     url: /gallery/
