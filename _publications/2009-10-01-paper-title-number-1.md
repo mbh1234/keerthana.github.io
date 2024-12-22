@@ -1,7 +1,7 @@
 ---
 title: "A Survey of Applications of Multi-armed bandits in the Industrial Recommender Systems"
 collection: publications
-category: journal papers
+category: 
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'The paper is a comprehensive review of Multi-armed bandits. It discusses algorithms, miscellaneous applications & case case studies and extends to evaluation methods and challenges'
 date: 2024-02-17
