@@ -1,5 +1,5 @@
 ---
-title: "Outreach"
+title: "Volunteer Work"
 permalink: /outreach/
 author_profile: true
 redirect_from:
