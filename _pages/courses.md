@@ -6,6 +6,9 @@ redirect_from:
   - /courses
 ---
 ## Machine learning and AI
+
+*Received an outstanding grade in all the courses*
+
 Introduction to Machine learning, Introduction to Reinforcement learning, Computational Cognitive Science, Probability and Statistics, Image Processing, Workshop: Intensive training in ML-NN-DL, Coursera: Machine learning & Deep learning specialization, Embedded and Cyber Physical Systems
 
 ## Programming and Mathematics
