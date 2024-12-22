@@ -1,9 +1,9 @@
 ---
 title: "Publications"
-permalink: /publication
+permalink: /publications
 author_profile: true
 redirect_from:
-  - /publication
+  - /publications
 ---
 
 ## **[Supervised Hopfield Neural Networks for solving Non-Verbal Reasoning problems](https://mbh1234.github.io/keerthana.github.io//publication/2010-10-01-paper-title-number-2)** 
