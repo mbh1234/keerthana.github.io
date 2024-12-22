@@ -4,8 +4,8 @@ collection: publications
 category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'The paper solves the non-verbal reasoning problem with the use of a supervised hopfield neural network'
-date: ''
-venue: 'Journal 1'
+date: '01-10-2010'
+venue: 'CogSci 2025'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation:
