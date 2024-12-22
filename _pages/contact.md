@@ -8,6 +8,6 @@ redirect_from:
 
 **Hey there!**
 
-Please feel free to reach to me for any query or collaborations at my email
+Please feel free to reach out to me for any queries or collaborations at my email:
 
-[keerthana.chirumamilla1@gmail.com](keerthana.chirumamilla1@gmail.com)
+[keerthana.chirumamilla1@gmail.com](mailto:keerthana.chirumamilla1@gmail.com)
