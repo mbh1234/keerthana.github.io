@@ -6,10 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
-
-  - title: "Research"
-    url: /research/    
+    url: /publications/  
 
   - title: "Experience"
     url: /experience/    
@@ -27,7 +24,7 @@ main:
     url: /gallery/
 
   - title: "Outreach"
-    url: /outreach/
+    url: /outreach/  
 
   - title: "Contact"
     url: /contact/
