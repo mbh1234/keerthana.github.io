@@ -11,9 +11,6 @@ main:
   - title: "Experience"
     url: /experience/    
     
-  - title: "Skills"
-    url: /skills/
-        
   - title: "Courses"
     url: /courses/
     
