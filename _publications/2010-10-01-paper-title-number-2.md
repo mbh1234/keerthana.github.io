@@ -1,14 +1,11 @@
 ---
 title: "Supervised Hopfield Neural Networks for solving Non-Verbal Reasoning problems"
-collection: publications
-category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'The paper solves the non-verbal reasoning problem with the use of a supervised hopfield neural network'
-date: '2025-06-15'
-venue: 'CogSci 2025'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation:
+author_profile: true
+redirect_from:
+  - /publication/2010-10-01-paper-title-number-2
 ---
 
-**Abstract:** Need to complete this
+**Abstract:**
+
+Need to complete this
