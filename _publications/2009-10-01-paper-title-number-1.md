@@ -1,6 +1,7 @@
 ---
 title: "A Survey of Applications of Multi-armed bandits in the Industrial Recommender Systems"
 permalink: /publication/2009-10-01-paper-title-number-1
+date: 2025-06-05
 author_profile: true
 redirect_from:
   - /publication/2009-10-01-paper-title-number-1
