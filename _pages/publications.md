@@ -11,7 +11,7 @@ redirect_from:
 
 The paper solves the non-verbal reasoning problem with the use of a supervised hopfield neural network
 
-[Results](https://mbh1234.github.io/keerthana.github.io/files/cv.pdf)
+[Results](https://mbh1234.github.io/keerthana.github.io/files/hopfield.pdf)
 
 ## **[A Survey of Applications of Multi-armed bandits in the Industrial Recommender Systems](https://mbh1234.github.io/keerthana.github.io//publication/2009-10-01-paper-title-number-1)**  
 *Under review in Journal of Machine learning (JMLR)*
