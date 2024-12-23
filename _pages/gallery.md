@@ -1,9 +1,9 @@
 ---
 title: "Courses"
-permalink: /courses/
+permalink: /gallery/
 author_profile: true
 redirect_from:
-  - /courses
+  - /gallery
 ---
 
 # Photo Gallery
