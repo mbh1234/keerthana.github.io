@@ -155,6 +155,12 @@ include:
   - .htaccess
   - _pages
   - files
+  - package.json*
+  - LICENSE
+  - Dockerfile
+  - Gemfile
+  - README
+  - assets/js/plugins
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -164,22 +170,20 @@ exclude:
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/_main.js
-  - assets/js/plugins
+  
   - assets/js/vendor
   - CHANGELOG
   - Capfile
   - config
-  - Dockerfile
-  - Gemfile
+  
   - Gruntfile.js
   - gulpfile.js
-  - LICENSE
+
   - local
   - log
   - node_modules
-  - package.json*
   - Rakefile
-  - README
+  
   - tmp
   - vendor
 keep_files:
