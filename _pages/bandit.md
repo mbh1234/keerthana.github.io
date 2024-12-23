@@ -1,6 +1,6 @@
 ---
 title: "A Survey of Applications of Multi-armed bandits in the Industrial Recommender Systems"
-permalink: /bandit
+permalink: /bandit/
 author_profile: true
 redirect_from:
   - /bandit
