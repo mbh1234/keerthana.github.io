@@ -13,7 +13,7 @@ The paper solves the non-verbal reasoning problem with the use of a supervised h
 
 [Results](https://example.com)
 
-## **[A Survey of Applications of Multi-armed bandits in the Industrial Recommender Systems](https://mbh1234.github.io/keerthana.github.io//publication/2009-10-01-paper-title-number-1)**  
+## **[A Survey of Applications of Multi-armed bandits in the Industrial Recommender Systems](https://mbh1234.github.io/keerthana.github.io//bandit)**  
 *Under review in Journal of Machine learning (JMLR)*
 
 The paper is a comprehensive review of Multi-armed bandits. It discusses algorithms, miscellaneous applications & case case studies and extends to evaluation methods and challenges
