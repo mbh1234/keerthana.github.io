@@ -5,7 +5,7 @@ redirect_from:
   - /contact
 ---
 
-### Hey there! 👋
+**Hey there!** 👋
 
 Please feel free to reach out to me for any queries or collaborations at my email:
 
