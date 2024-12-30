@@ -10,6 +10,4 @@ redirect_from:
 
 Here are some of my favorite photos:
 
-![Nature Image](/images/1.jpeg)
-
-![City Skyline](/images/2.jpeg)
+![Nature Image](/images/3.jpeg)
