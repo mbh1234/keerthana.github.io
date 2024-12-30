@@ -5,7 +5,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About me
 
 Hey there! 👋
 
