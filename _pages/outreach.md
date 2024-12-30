@@ -6,7 +6,7 @@ redirect_from:
   - /outreach
 ---
 
-## At University
+## At University 🏫
 
 ### Student Guide
 Guided six freshmen students in acclimating to campus life, offering support in academics and providing emotional guidance to help ease their transition and enhance their overall experience
@@ -27,7 +27,7 @@ Volunteered for Techkriti, Asia's largest technical fest
 
 ---
 
-## Outside University
+## Outside University 🏘️
 
 ### Red Cross Society
 Trained communities in first-aid and hygiene, while assessing and addressing local vulnerabilities for development Distributed food packets and medicines during Covid-19 Pandemic 
