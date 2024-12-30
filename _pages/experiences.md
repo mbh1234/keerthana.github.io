@@ -23,7 +23,7 @@ redirect_from:
 
 
 
-## Industrial Experience 📊
+## Industrial Experience 🏭
 ### Building a Telugu Large Language Model
 *Machine learning intern, Swecha Org, In association with Meta, Ozonotel, IIIT Hyderabad*
 
@@ -77,7 +77,7 @@ redirect_from:
 - Developed an algorithm distinguishing molten lava from rocks with 86% accuracy
 - Created and applied a joint bilateral filter to transform images from flash to ambient
 
-## Other Projects 🚀
+## Other Projects 🖥️
 ###  Eavesdropping 101, An Introduction to Cryptography
 *Stamatics Society*
 - Mastered cryptography basics including linear ciphers, finite fields, number theory
