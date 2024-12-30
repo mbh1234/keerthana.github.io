@@ -59,6 +59,8 @@ redirect_from:
 
 ### Building a UI/UX interface for Bank loans
 *DMS624: Computer aided Decision Systems*
+- Developed a website with Jave script, Node js, React js for taking info from farmers for loan applications
+- Incorporated many features such as side-bar for easy filling out, multiple forms, text-to-native language translation for ease
 
 ###  Cycle Track Sentinel
 *EE381: Electrical Engineering Laboratory- II*
@@ -89,6 +91,6 @@ redirect_from:
 ###  Rubick’s Cube Solver
 *AlgoZenith Technologies*
 - Modeled and solved a Rubik’s Cube in under 3 seconds using BFS, DFS, and IDDFS
--Applied Korf’s IDA* Algorithm to solve a 13-times jumbled cube in under 10 seconds
+- Applied Korf’s IDA* Algorithm to solve a 13-times jumbled cube in under 10 seconds
 
 
