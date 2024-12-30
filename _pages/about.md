@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+## About me:
 Hey there! 👋
 
 I'm Keerthana, a final year undergraduate at IIT Kanpur. I'm majoring in Electrical Engineering with minors in Machine learning, Computer systems, Management sciences and Philosophy. My institute ranks #1 in research & innovation in India and holds a QS rank of 96 globally in Electrical and Computer Engineering.
