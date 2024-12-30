@@ -1,5 +1,5 @@
 ---
-title: "Hopfield Neural Network"
+title: "Supervised Hopfield Neural Networks for solving Non-Verbal Reasoning problems"
 permalink: /hopfield/
 author_profile: true
 redirect_from:
