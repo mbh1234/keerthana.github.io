@@ -14,12 +14,10 @@ Feel free to reach out—I’m always happy to chat and share insights or lend a
 
 ### **Email**  📧
 For any queries or collaboration opportunities, you can reach me directly at:
-
 [keerthana.chirumamilla1@gmail.com](mailto:keerthana.chirumamilla1@gmail.com)
 
 ### **Let's Connect via Social Media** 💬
 You can also find me on the following platforms:
-
  [LinkedIn](linkedin.com/in/keerthana-c-a5724222a)    
 
 ---
