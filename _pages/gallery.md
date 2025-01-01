@@ -5,7 +5,9 @@ author_profile: true
 redirect_from:
   - /gallery
 ---
-Some memories at IIT Kanpur
+
+A few highlights from my journey:
+
 ---
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
