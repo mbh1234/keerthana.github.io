@@ -22,7 +22,7 @@ You can also find me on the following platforms:
 
 ---
 
-### 📝 **Or, Use the Contact Form Below**
+### **Or, Use the Contact Form Below** 📝
 
 If you'd prefer to fill out a contact form, just complete the form linked below, and I’ll get back to you as soon as possible!
 
