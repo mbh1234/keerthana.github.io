@@ -14,6 +14,6 @@ Please fill out the form below to get in touch with me:
 
 ---
 
-You can also connet with me through my [Email 📧](mailto:keerthana.chirumamilla1@gmail.com) and [LinkedIn 🤝](linkedin.com/in/keerthana-c-a5724222a)
+You can also connet with me through my [Email](mailto:keerthana.chirumamilla1@gmail.com) and [LinkedIn](linkedin.com/in/keerthana-c-a5724222a)
 
 Looking forward to hearing from you! 🤗
