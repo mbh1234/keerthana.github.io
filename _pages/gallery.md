@@ -6,24 +6,62 @@ redirect_from:
   - /gallery
 ---
 
-Here are some of the memories of me in IIT Kanpur: 
+<div style="text-align: center; width: 400px; margin: 0 auto;">
+  ![My photo](https://mbh1234.github.io/keerthana.github.io/images/gate.png){:width="400px"}
+  <br>
+  <span style="display: block; width: 400px; margin-top: 8px; font-size: 14px; text-align: center;">*At my campus, IIT Kanpur*</span>
+</div>
 
-![My photo](https://mbh1234.github.io/keerthana.github.io/images/gate.png){:width="400px"}  <span style="margin-left: 10px;"> *At my campus, IIT Kanpur* 
+<div style="text-align: center; width: 400px; margin: 0 auto;">
+  ![My photo](https://mbh1234.github.io/keerthana.github.io/images/anc_invite.png){:width="400px"}
+  <br>
+  <span style="display: block; width: 400px; margin-top: 8px; font-size: 14px; text-align: center;">*Invited by IITK's research wing*</span>
+</div>
 
-![My photo](https://mbh1234.github.io/keerthana.github.io/images/anc_invite.png){:width="400px"}  <span style="margin-left: 10px;"> *Invited by IITK's research wing* 
+<div style="text-align: center; width: 400px; margin: 0 auto;">
+  ![My photo](https://mbh1234.github.io/keerthana.github.io/images/speech.png){:width="400px"}
+  <br>
+  <span style="display: block; width: 400px; margin-top: 8px; font-size: 14px; text-align: center;">*Guiding juniors*</span>
+</div>
 
-![My photo](https://mbh1234.github.io/keerthana.github.io/images/speech.png){:width="400px"}  <span style="margin-left: 10px;"> *Guiding juniors* 
+<div style="text-align: center; width: 400px; margin: 0 auto;">
+  ![My photo](https://mbh1234.github.io/keerthana.github.io/images/ecell.png){:width="400px"}
+  <br>
+  <span style="display: block; width: 400px; margin-top: 8px; font-size: 14px; text-align: center;">*Organizing the Entrepreneurship Cell's Startup Development with VCs and Angel Investors*</span>
+</div>
 
-![My photo](https://mbh1234.github.io/keerthana.github.io/images/ecell.png){:width="400px"}  <span style="margin-left: 10px;"> *Organizing the Entrepreneurship Cell's Startup Development with VCs and Angel Investors* 
+<div style="text-align: center; width: 400px; margin: 0 auto;">
+  ![My photo](https://mbh1234.github.io/keerthana.github.io/images/eea.png){:width="400px"}
+  <br>
+  <span style="display: block; width: 400px; margin-top: 8px; font-size: 14px; text-align: center;">*Appreciation from the department for mentoring 40 students*</span>
+</div>
 
-![My photo](https://mbh1234.github.io/keerthana.github.io/images/eea.png){:width="400px"}  <span style="margin-left: 10px;"> *Appreciation from the department for mentoring 40 students* 
+<div style="text-align: center; width: 400px; margin: 0 auto;">
+  ![My photo](https://mbh1234.github.io/keerthana.github.io/images/sg.png){:width="400px"}
+  <br>
+  <span style="display: block; width: 400px; margin-top: 8px; font-size: 14px; text-align: center;">*Appreciation from the institute for serving as a Student guide*</span>
+</div>
 
-![My photo](https://mbh1234.github.io/keerthana.github.io/images/sg.png){:width="400px"}  <span style="margin-left: 10px;"> *Appreciation from the institute for serving as a Student guide* 
+<div style="text-align: center; width: 400px; margin: 0 auto;">
+  ![My photo](https://mbh1234.github.io/keerthana.github.io/images/poster.png){:width="400px"}
+  <br>
+  <span style="display: block; width: 400px; margin-top: 8px; font-size: 14px; text-align: center;">*Presenting a research poster*</span>
+</div>
 
-![My photo](https://mbh1234.github.io/keerthana.github.io/images/poster.png){:width="400px"}  <span style="margin-left: 10px;"> *Presenting a research poster* 
+<div style="text-align: center; width: 400px; margin: 0 auto;">
+  ![My photo](https://mbh1234.github.io/keerthana.github.io/images/surge_cert.png){:width="400px"}
+  <br>
+  <span style="display: block; width: 400px; margin-top: 8px; font-size: 14px; text-align: center;">*Appreciation for SURGE Internship*</span>
+</div>
 
-![My photo](https://mbh1234.github.io/keerthana.github.io/images/surge_cert.png){:width="400px"}  <span style="margin-left: 10px;"> *Appreciation for SURGE Internship* 
+<div style="text-align: center; width: 400px; margin: 0 auto;">
+  ![My photo](https://mbh1234.github.io/keerthana.github.io/images/interdigital.png){:width="400px"}
+  <br>
+  <span style="display: block; width: 400px; margin-top: 8px; font-size: 14px; text-align: center;">*Seminar with our research group and Interdigital*</span>
+</div>
 
-![My photo](https://mbh1234.github.io/keerthana.github.io/images/interdigital.png){:width="400px"}  <span style="margin-left: 10px;"> *Seminar with our research group and Interdigital* 
-
-![My photo](https://mbh1234.github.io/keerthana.github.io/images/krishna.png){:width="400px"}  <span style="margin-left: 10px;"> *Celebrating Janmashtami at campus* 
+<div style="text-align: center; width: 400px; margin: 0 auto;">
+  ![My photo](https://mbh1234.github.io/keerthana.github.io/images/krishna.png){:width="400px"}
+  <br>
+  <span style="display: block; width: 400px; margin-top: 8px; font-size: 14px; text-align: center;">*Celebrating Janmashtami at campus*</span>
+</div>
