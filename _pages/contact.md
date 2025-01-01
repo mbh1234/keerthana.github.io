@@ -24,9 +24,9 @@ You can also find me on the following platforms:
 
 ### **Or, Use the Contact Form Below** 📝
 
-If you'd prefer to fill out a contact form, just complete the form linked below, and I’ll get back to you as soon as possible!
+Please fill out the form below to get in touch with me:
 
-[**Contact Form**](https://forms.gle/RV8Kbh2nTpycGKJ2A)
+<iframe src="https://forms.gle/RV8Kbh2nTpycGKJ2A" width="640" height="480" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ---
 
