@@ -26,7 +26,7 @@ You can also find me on the following platforms:
 
 Please fill out the form below to get in touch with me:
 
-<iframe src="https://forms.gle/RV8Kbh2nTpycGKJ2A" width="640" height="480" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://forms.gle/RV8Kbh2nTpycGKJ2A" width="100%" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ---
 
