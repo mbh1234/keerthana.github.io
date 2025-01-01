@@ -14,7 +14,7 @@ Some memories at IIT Kanpur
     <img src="https://mbh1234.github.io/keerthana.github.io/images/gate.png" width="400px" height="286px" alt="At my campus, IIT Kanpur">
     <br>
     <span style="font-size: 15px;">
-      <a style="text-decoration: none; color: inherit;">A Moment at the IIT Kanpur Campus Gate</a>
+      <a style="text-decoration: none; color: inherit;">A moment at the IIT Kanpur campus gate</a>
     </span>
   </div>
 
@@ -38,7 +38,7 @@ Some memories at IIT Kanpur
     <img src="https://mbh1234.github.io/keerthana.github.io/images/ecell.png" width="400px" height="286px" alt="Organizing the Entrepreneurship Cell's Startup Development with VCs and Angel Investors">
     <br>
     <span style="font-size: 15px;">
-      <a  style="text-decoration: none; color: inherit;">At the Entrepreneurship Cell's Startup Development initiative, collaborating with VCs and Angel Investors to nurture future business leaders</a>
+      <a  style="text-decoration: none; color: inherit;">At the Entrepreneurship Cell's startup development initiative, collaborating with VCs and angel investors to nurture future business leaders</a>
     </span>
   </div>
 
@@ -46,7 +46,7 @@ Some memories at IIT Kanpur
     <img src="https://mbh1234.github.io/keerthana.github.io/images/eea.png" width="400px" height="286px" alt="Appreciation from the department for mentoring 40 students">
     <br>
     <span style="font-size: 15px;">
-      <a  style="text-decoration: none; color: inherit;">Appreciation from the department for mentoring 40 students</a>
+      <a  style="text-decoration: none; color: inherit;">Appreciation from the department for mentoring 40 students during winter projects</a>
     </span>
   </div>
 
