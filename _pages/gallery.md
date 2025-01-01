@@ -5,7 +5,7 @@ author_profile: true
 redirect_from:
   - /gallery
 ---
-
+---
 Some memories along the way ✨
 
 ---
