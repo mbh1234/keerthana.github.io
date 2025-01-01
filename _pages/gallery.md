@@ -10,9 +10,11 @@ redirect_from:
   <img src="https://mbh1234.github.io/keerthana.github.io/images/gate.png" width="400px" alt="At my campus, IIT Kanpur">
   <br>
   <span style="display: block; width: 400px; margin-top: 8px; font-size: 14px; text-align: center;">
-    <a href="YOUR_LINK_HERE" style="text-decoration: none; color: inherit;">*At my campus, IIT Kanpur*</a>
+    <a href="YOUR_LINK_HERE" style="text-decoration: none; color: inherit;">At my campus, IIT Kanpur</a>
   </span>
 </div>
+
+
 
 <div style="text-align: center; width: 400px; margin: 0 auto;">
   <img src="https://mbh1234.github.io/keerthana.github.io/images/anc_invite.png" width="400px" alt="Invited by IITK's research wing">
