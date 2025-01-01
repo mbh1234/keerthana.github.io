@@ -6,7 +6,7 @@ redirect_from:
   - /gallery
 ---
 
-A few highlights from my journey:
+Some memories along the way ✨
 
 ---
 
