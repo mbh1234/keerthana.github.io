@@ -20,7 +20,7 @@ Guided six freshmen students in acclimating to campus life, offering support in 
   Served as the point of contact for students during the 2022 Internship and Placement Drives, collaborating with HR teams across industries to ensure smooth selection and induction processes
   
 - **Entrepreneurship Cell**  
-Served as Secretary in Startup Development, creating databases, supporting startups, and collaborating with VCs and Angel Investors Coordinated the flagship event at T-Hub, Hyderabad
+Served as Secretary in Startup Development, creating databases, supporting startups, and collaborating with Venture Capitalists and Angel investors. Coordinated the flagship event at T-Hub, Hyderabad to act as the incubation for startups
 
 - **Techkriti**  
 Volunteered for Techkriti, Asia's largest technical fest
@@ -30,7 +30,7 @@ Volunteered for Techkriti, Asia's largest technical fest
 ## Outside University 🏘️
 
 ### Red Cross Society
-Trained communities in first-aid and hygiene, while assessing and addressing local vulnerabilities for development Distributed food packets and medicines during Covid-19 Pandemic 
+Trained communities in first-aid and hygiene, while assessing and addressing local vulnerabilities for development. Distributed food packets and medicines during Covid-19 Pandemic. Held blood donation camps. 
 
 ### Tharuni NGO
 Taught underprivileged girls to motivate them to continue their education and raised social awareness
