@@ -6,14 +6,6 @@ redirect_from:
   - /gallery
 ---
 
----
-title: "Photo Gallery 📷"
-permalink: /gallery/
-author_profile: true
-redirect_from:
-  - /gallery
----
-
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
   <div style="text-align: center;">
