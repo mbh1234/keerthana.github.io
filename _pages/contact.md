@@ -6,7 +6,7 @@ redirect_from:
   - /contact
 ---
 ---
-Whether you're looking for collaboration opportunities, seeking guidance on your academic or professional journey, need help with resume reviews, or simply want to say hello, I’d love to connect with you! Feel free to reach out — I’m always happy to chat and share insights or lend a hand.
+Whether you're looking for collaborations, seeking guidance on your academic or professional journey, need help with resume reviews, or simply want to say hello, I’d love to connect with you! Feel free to reach out — I’m always happy to chat and share insights or lend a hand.
 
 Please fill out the form below to get in touch with me:
 
