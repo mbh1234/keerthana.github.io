@@ -5,7 +5,7 @@ author_profile: true
 redirect_from:
   - /contact
 ---
-
+---
 Whether you're looking for collaboration opportunities, seeking guidance on your academic or professional journey, need help with resume reviews, or simply want to say hello, I’d love to connect with you!
 
 Feel free to reach out—I’m always happy to chat and share insights or lend a hand.
