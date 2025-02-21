@@ -1,5 +1,5 @@
 ---
-title: "Explainable AI for Machine learning algorithms in detextion of credit card scam"
+title: "Explainable AI for Machine learning algorithms in detection of credit card scam"
 permalink: /xai/
 author_profile: true
 redirect_from:
