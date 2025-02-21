@@ -1,5 +1,5 @@
 ---
-title: "Explainable AI for Machine learning algorithms in detextion of credit card scam"
+title: "Explainable AI for Machine learning algorithms in detection of credit card scam"
 permalink: /publication/2024-02-17-paper-title-number-4
 author_profile: true
 redirect_from:
