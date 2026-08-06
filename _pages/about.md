@@ -1,24 +1,11 @@
 ---
 permalink: /
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
-
-<nav style="position: fixed; top: 0; left: 0; right: 0; max-width: 900px; margin: 0 auto; width: 100%; height: 60px; display: flex; align-items: center; justify-content: space-between; padding: 0 48px; background: white; border-bottom: 1px solid #e5e0d5; z-index: 1000; box-sizing: border-box;">
-  <div style="font-weight: 600; font-size: 14px;">Keerthana Chirumamilla</div>
-  <div style="display: flex; gap: 28px; font-size: 12px;">
-    <a href="#publications" style="color: #5a5a5a; text-decoration: none; font-weight: 500;">publications</a>
-    <a href="#experience" style="color: #5a5a5a; text-decoration: none; font-weight: 500;">experience</a>
-    <a href="#courses" style="color: #5a5a5a; text-decoration: none; font-weight: 500;">courses</a>
-    <a href="#outreach" style="color: #5a5a5a; text-decoration: none; font-weight: 500;">outreach</a>
-    <a href="#contact" style="color: #5a5a5a; text-decoration: none; font-weight: 500;">contact</a>
-    <a href="https://mbh1234.github.io/keerthana.github.io/files/cv.pdf" style="color: #5a5a5a; text-decoration: none; font-weight: 500;">CV ↓</a>
-  </div>
-</nav>
-
-**Hey there! 👋** I'm Keerthana, a final year undergraduate at IIT Kanpur. I'm majoring in Electrical Engineering with minors in Machine learning, Computer systems, Management sciences and Philosophy. My institute ranks #1 in research & innovation in India and holds a QS rank of 96 globally in Electrical and Computer Engineering.
+**Hey there!** 👋 I'm Keerthana, a final year undergraduate at IIT Kanpur. I'm majoring in Electrical Engineering with minors in Machine learning, Computer systems, Management sciences and Philosophy. My institute ranks #1 in research & innovation in India and holds a QS rank of 96 globally in Electrical and Computer Engineering.
 
 I'm grateful for opportunities at such a research-oriented institute, where I got the chance to explore various fields including machine learning, deep learning, data science, AI, web-development, UI/UX design, competetive coding, embedded systems, cryptography and core electrical domains. With three publications in progress, I am confident that my research interests lie in using ML, AI and Statistics to solve real-world problems, particularly at the intersection of technology and engineering. I aim to make meaningful contributions by applying data-driven approaches to solve real-world challenges across diverse domains.
 
